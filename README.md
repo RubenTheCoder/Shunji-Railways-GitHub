@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/61ea2e66-4484-444b-b396-062807031ea2">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/f69bddc5-5969-4017-bd6d-bbb3b56580ed">
 
 - Current Version: N/A
 - Next release: v0.1a (Adds homepage)
