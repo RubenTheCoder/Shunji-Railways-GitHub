@@ -1,3 +1,5 @@
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/19d741d8-ecaf-432c-838f-35b2dbd643e8" style="width: 100%;">
+
 # 🛡 Security Policy
 
 ## 🚨 Reporting a Vulnerability
