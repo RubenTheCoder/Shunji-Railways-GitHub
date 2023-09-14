@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Update reques
+# Update request
 
 ## Description
 
