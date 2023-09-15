@@ -1,4 +1,5 @@
-# [Pull request name]
+# '[ISSUE ID]' + [Pull request name]
+> Example: '[#12] Add thing' (Remove line)
 
 [Author]
 
