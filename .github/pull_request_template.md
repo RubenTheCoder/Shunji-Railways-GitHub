@@ -1,12 +1,23 @@
-# '[ISSUE ID]' + [Pull request name]
-> Example: '[#12] Add thing' (Remove line)
+# [Optional Issue ID] - [Add title here]
 
-[Author]
+
 
 ## Pull request description
-[Description]
+[Add a detailed description here]
 
 
-## Related 
+
+## Contributors
+- [Add names here]
+
+
+
+## Related issues
 Pull request relates to the following issues:
-- [Issue]
+- [Add issues in this list]
+
+
+
+## Issues closed
+These will be closed using 'Closing keywords' (Closes #Issue)
+- [Closes #Issue] 
