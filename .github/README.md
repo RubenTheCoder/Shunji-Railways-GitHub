@@ -36,4 +36,5 @@ You can ask questions at the Discussion board, or mail us
 
 ## Project Contributors
 - [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and Lead designer
+- [JeroenCoder](https://github.com/JeroenCoder) - Trainee
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, Programmer and Content designer
