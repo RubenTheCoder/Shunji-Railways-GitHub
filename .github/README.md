@@ -1,9 +1,7 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/f69bddc5-5969-4017-bd6d-bbb3b56580ed">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/9c9d9ffb-a318-4354-b698-ba6a7983b5e0">
 
 - Current Version: v-0.0
 - Next release: v-0.1a (Adds homepage)
-
-
 
 # 🙂 Welcome to the Shunji Railways GitHub Repository
 This is one of my projects to add to my ICT portfolio, the website for a fictional railway company called Shunji Railways.
@@ -38,3 +36,5 @@ You can ask questions at the [Discussion board](https://github.com/RubenTheCoder
 - [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and Lead designer
 - [JeroenCoder](https://github.com/JeroenCoder) - Trainee
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, Programmer and Content designer
+
+<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/9c9d9ffb-a318-4354-b698-ba6a7983b5e0">
