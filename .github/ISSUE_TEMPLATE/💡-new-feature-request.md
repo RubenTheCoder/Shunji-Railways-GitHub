@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-# New Feature request
+# New Feature request - [Add a title here]
 
 ## Description
 
-[Description]
+[Add a meaningfull description here]
 
 
 
 ## Needed to create
 
-- [ ] [Thing]
+- [ ] [Add things to do here]

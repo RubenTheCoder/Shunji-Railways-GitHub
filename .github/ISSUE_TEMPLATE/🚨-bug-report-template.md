@@ -7,20 +7,19 @@ assignees: ''
 
 ---
 
-# Bug report
+# Bug report - [Add a title here]
+
+
 
 ## Description
-
-[Description]
+[Add a meaningfull description here]
 
 
 
 ## How to find/reproduce bug
-
-- [Explaination]
+- [Explain how to find or reproduce the bug here]
 
 
 
 ## Steps involved in solving
-
-- [ ] [Thing]
+- [ ] [Add things to do here]
