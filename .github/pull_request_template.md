@@ -15,3 +15,9 @@
 ## Related issues
 Pull request relates to the following issues:
 - [Add issues in this list]
+
+
+
+## Issues closed
+These will be closed using 'Closing keywords' (Closes #Issue)
+- [Closes #Issue] 
