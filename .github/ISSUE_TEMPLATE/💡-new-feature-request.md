@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# New Feature request
+# New Feature request - [Add a title here]
 
 ## Description
 
