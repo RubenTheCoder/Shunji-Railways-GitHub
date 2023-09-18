@@ -11,10 +11,10 @@ assignees: ''
 
 ## Description
 
-[Description]
+[Add a meaningfull description here]
 
 
 
 ## Needed to create
 
-- [ ] [Thing]
+- [ ] [Add things to do here]
