@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/9c9d9ffb-a318-4354-b698-ba6a7983b5e0">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
 
 ---
 
@@ -47,4 +47,4 @@ You can ask questions at the [Discussion board](https://github.com/RubenTheCoder
 
 ---
 
-<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/9c9d9ffb-a318-4354-b698-ba6a7983b5e0">
+<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
