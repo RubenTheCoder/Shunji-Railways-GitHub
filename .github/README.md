@@ -21,7 +21,7 @@ To be added...
 
 ## How to Contribute
 
-<img align="right" width="33%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Thanks%20for%20Contributions%20Amesuki.png">
+<img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Thanks%20for%20Contributions%20Amesuki.png">
 
 - **📨 Submit Ideas:** If you are a contributor and have a feature request or an enhancement idea, [open an issue](https://github.com/users/RubenTheCoder/projects/4) in the "New Features" column, providing as much detail as possible. You can also [fork our project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork), or send us ideas in the [Discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/ideas).
 
