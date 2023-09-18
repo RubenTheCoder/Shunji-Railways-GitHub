@@ -1,7 +1,7 @@
 <img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/assets/130549492/f69bddc5-5969-4017-bd6d-bbb3b56580ed">
 
-- Current Version: N/A
-- Next release: v0.1a (Adds homepage)
+- Current Version: v-0.0
+- Next release: v-0.1a (Adds homepage)
 
 
 
@@ -17,21 +17,21 @@ To be added...
 
 
 ## How to Contribute
-- **📨 Submit Ideas:** If you are a contributor and have a feature request or an enhancement idea, open an issue in the "New Features" column, providing as much detail as possible. You can also fork our project, or send us ideas in the discussion board.
+- **📨 Submit Ideas:** If you are a contributor and have a feature request or an enhancement idea, [open an issue](https://github.com/users/RubenTheCoder/projects/4) in the "New Features" column, providing as much detail as possible. You can also [fork our project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork), or send us ideas in the [Discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/ideas).
 
-- **🔎 Bug Reports:** Encountered a bug? Report it using the Bug-fixing discussion board. One of our Team members will then take a look into it and post it to the Workspace.
+- **🔎 Bug Reports:** Encountered a bug? Report it using the [Bug-fixing discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/bug-fixing). One of our Team members will then take a look into it and post it to the [Workspace](https://github.com/users/RubenTheCoder/projects/4).
 
-- **🔨 Contributing:** Ready to dive in and contribute? Pick a task from the Todo board, and fork it. You can then start a pull request, and maybe we will introduce your code into our project.
+- **🔨 Contributing:** Ready to dive in and contribute? Pick a task from the [Todo board](https://github.com/users/RubenTheCoder/projects/4), and [fork the repository](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork). You can then work on it and start a pull request, and maybe we will introduce your code into our project.
 
-- **🧪 Review and Testing:** Help us ensure quality by reviewing and testing tasks in the "Review and Testing" column. You can send us a QA report on a issue using our QA discussion board .Your feedback is invaluable.
+- **🧪 Review and Testing:** Help us ensure quality by reviewing and testing tasks in the ["Review and Testing" column](https://github.com/users/RubenTheCoder/projects/4). You can send us a Quality report on a issue using our [Quality discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/quality). Your feedback is invaluable.
 
 - **😃 Join the Discussion:** Engage with other contributors, share your thoughts, and offer assistance in the comments section of each issue.
 
 
 
 ## Contact and Support
-You can ask questions at the Discussion board, or mail us
-> 📧 Send us a e-mail: rvos@reacollege.net
+You can ask questions at the [Discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a), or you can mail us
+> 📧 Send us an E-mail with: rvos@reacollege.net
 
 
 ## Project Contributors
