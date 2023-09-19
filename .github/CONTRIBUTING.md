@@ -47,7 +47,7 @@ Share your thoughts, ideas, and feedback on the project, or help others with the
 
 ## 🙂 Code of conduct
 
-Please note that we have a [Code of Conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md) in place. We expect all contributors and community members to adhere to it in all interactions within the project.
+Please note that we have a [Code of conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md) in place. We expect all contributors and community members to adhere to it in all interactions within the project.
 
 
 
