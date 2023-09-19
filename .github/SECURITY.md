@@ -2,7 +2,7 @@
 
 ---
 
-# 🛡 Security Policy
+# 🛡 Security policy
 
 ## 🚨 Reporting a vulnerability
 
