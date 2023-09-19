@@ -1,13 +1,13 @@
 ---
-name: "\U0001F4A1 New Feature request"
+name: "\U0001F4A1 New feature request"
 about: Used to submit new features
-title: "[\U0001F4A1 NEW]"
+title: "[\U0001F4A1 New]"
 labels: "\U0001F4A1 New feature"
 assignees: ''
 
 ---
 
-# New Feature request - [Add a title here]
+# New feature request - [Add a title here]
 
 ## Description
 
