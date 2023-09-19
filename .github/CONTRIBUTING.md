@@ -2,7 +2,7 @@
 
 ---
 
-# 📋 Contribution Guidelines
+# 📋 Contribution guidelines
 
 Thank you for your interest in contributing to the Shunji Railways GitHub!
 We welcome contributions from the community to help improve and enhance our project.
@@ -10,13 +10,13 @@ Whether you're a developer, designer, or just an enthusiastic user, there are se
 
 
 
-## 🤗 Ways to Contribute
+## 🤗 Ways to contribute
 
 <img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Thanks%20for%20Contributions%20Amesuki.png">
 
 
 
-- **🚨 Bug Reports:** If you encounter a bug or issue with the project,
+- **🚨 Bug reports:** If you encounter a bug or issue with the project,
 please report it on our [bug fixing discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/bug-fixing).
 Provide as much detail as possible, including the steps to reproduce the issue, the expected behavior, and the actual behavior.
 
