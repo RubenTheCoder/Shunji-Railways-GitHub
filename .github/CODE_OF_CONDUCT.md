@@ -23,7 +23,7 @@ Examples of **unacceptable** behavior include:
 - 🗯 The use of inappropiate language or content.
 - 🤬 Aggresive behavior, trolling, insulting and other forms of personal attacks.
 - 😈 Any kind of harassment.
-- 📨 Publishing private information of others or the project.
+- 🪪 Publishing private information of others or the project.
 - ⛔️ Other inmoral and inappropiate conducts.
 
 ## 🚨 Rule enforcement
