@@ -1,8 +1,8 @@
 ---
-name: "\U0001F528 Update request template"
-about: Used to submit updates to the 'Todo' column
-title: "[\U0001F528 UPDATE]"
-labels: "\U0001F528 Update"
+name: "🪛 Update request template"
+about: Used to submit updates to the 'To do' column
+title: "[🪛 Update]"
+labels: "🪛 Update"
 assignees: ''
 
 ---
