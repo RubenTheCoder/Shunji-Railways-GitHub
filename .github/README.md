@@ -8,7 +8,7 @@
 
 ---
 
-# 🙂 Welcome to the Shunji Railways GitHub Repository
+# 🙂 Welcome to the Shunji Railways GitHub repository
 This is one of my projects to add to my IT portfolio, a website for a fictional railway company called Shunji Railways.
 They transport goods and people on the entire planet of Kikoria. Now they need a website, and decided to put the project open source on GitHub.
 
@@ -23,24 +23,24 @@ To be added...
 
 <img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Thanks%20for%20Contributions%20Amesuki.png">
 
-- **📨 Submit Ideas:** If you are a contributor and have a feature request or an enhancement idea, [open an issue](https://github.com/users/RubenTheCoder/projects/4) in the "New features" column, providing as much detail as possible. You can also [fork our project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork), or send us ideas in the [discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/ideas).
+- **📨 Submit ideas:** If you are a contributor and have a feature request or an enhancement idea, [open an issue](https://github.com/users/RubenTheCoder/projects/4) in the 'New features' column, providing as much detail as possible. You can also [fork our project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork), or send us ideas in the [discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/ideas).
 
-- **🔎 Bug Reports:** Encountered a bug? Report it using the [bug fixing discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/bug-fixing). One of our team members will then take a look into it and post it to the [workspace](https://github.com/users/RubenTheCoder/projects/4).
+- **🔎 Bug reports:** Encountered a bug? Report it using the [bug fixing discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/bug-fixing). One of our team members will then take a look into it and post it to the [workspace](https://github.com/users/RubenTheCoder/projects/4).
 
-- **🍴 Forking a repository:** Ready to dive in and contribute? Pick a task from the [to-do board](https://github.com/users/RubenTheCoder/projects/4), and [fork the repository](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork). You can then work on it and start a pull request, and maybe we will introduce your code into our project.
+- **🍴 Forking a repository:** Ready to dive in and contribute? Pick a task from the ['To do board'](https://github.com/users/RubenTheCoder/projects/4), and [fork the repository](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork). You can then work on it and start a pull request, and maybe we will introduce your code into our project.
 
-- **🧪 Review and Testing:** Help us ensure quality by reviewing and testing tasks in the [review and testing column](https://github.com/users/RubenTheCoder/projects/4). You can send us a quality report on an issue using our [quality discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/quality). Your feedback is invaluable.
+- **🧪 Review and testing:** Help us ensure quality by reviewing and testing tasks in the ['Review and testing' column](https://github.com/users/RubenTheCoder/projects/4). You can send us a quality report on an issue using our [quality discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/quality-reports). Your feedback is invaluable.
 
-- **😃 Join the Discussion:** Engage with other contributors, share your thoughts, and offer assistance in the comments section of each issue.
+- **😃 Join the discussion:** Engage with other contributors, share your thoughts, and offer assistance in the comments section of each issue or the [general discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/general)
 
 
 
-## 📞 Contact and Support
+## 📞 Contact and support
 You can ask questions at the [Q&A discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a), or you can mail us with the e-mail address below
-> 📧 Send us an E-mail with: rvos@reacollege.net
+> 📧 Send us an e-mail: rvos@reacollege.net
 
 
-## Project Contributors
+## Project contributors
 - [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and lead designer
 - [JeroenCoder](https://github.com/JeroenCoder) - Intern
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, programmer and content designer
