@@ -27,7 +27,7 @@ To be added...
 
 - **🔎 Bug reports:** Encountered a bug? Report it using the [bug fixing discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/bug-fixing). One of our team members will then take a look into it and post it to the [workspace](https://github.com/users/RubenTheCoder/projects/4).
 
-- **🍴 Forking a repository:** Ready to dive in and contribute? Pick a task from the ['To do board'](https://github.com/users/RubenTheCoder/projects/4), and [fork the repository](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork). You can then work on it and start a pull request, and maybe we will introduce your code into our project.
+- **🔃 Forking a repository:** Ready to dive in and contribute? Pick a task from the ['To do board'](https://github.com/users/RubenTheCoder/projects/4), and [fork the repository](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork). You can then work on it and start a pull request, and maybe we will introduce your code into our project.
 
 - **🧪 Review and testing:** Help us ensure quality by reviewing and testing tasks in the ['Review and testing' column](https://github.com/users/RubenTheCoder/projects/4). You can send us a quality report on an issue using our [quality discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/quality-reports). Your feedback is invaluable.
 
@@ -40,7 +40,7 @@ You can ask questions at the [Q&A discussion board](https://github.com/RubenTheC
 > 📧 Send us an e-mail: rvos@reacollege.net
 
 
-## Project contributors
+## 👥 Project contributors
 - [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and lead designer
 - [JeroenCoder](https://github.com/JeroenCoder) - Intern
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, programmer and content designer
