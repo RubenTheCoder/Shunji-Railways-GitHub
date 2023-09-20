@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
 
 ---
 
@@ -49,4 +49,4 @@ You can ask questions at the [Q&A discussion board](https://github.com/RubenTheC
 
 Made by [RubenTheCoder](https://github.com/RubenTheCoder) and [ChatGPT](https://chat.openai.com/)
 
-<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
+<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
