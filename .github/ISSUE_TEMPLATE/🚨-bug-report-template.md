@@ -1,7 +1,7 @@
 ---
 name: "\U0001F6A8 Bug report template"
 about: Used to report bugs
-title: "[\U0001F6A8 BUG]"
+title: "[\U0001F6A8 Bug]"
 labels: "\U0001F577 Bug"
 assignees: ''
 
