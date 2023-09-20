@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
 
 ---
 
@@ -10,6 +10,8 @@ we expect you to act by some standards to keep this project a safe and welcoming
 
 
 ## 📏 Our standards
+
+<img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Safety%20Amesuki.png">
 
 Examples of behavior that contributes to a positive enviroment include:
 
@@ -40,4 +42,4 @@ If someone breaks these standards and makes our community a unsafe place, action
 
 Made by [RubenTheCoder](https://github.com/RubenTheCoder) and [ChatGPT](https://chat.openai.com/)
 
-<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
+<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
