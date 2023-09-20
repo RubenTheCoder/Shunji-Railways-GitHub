@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
 
 ---
 
@@ -12,7 +12,7 @@ Whether you're a developer, designer, or just an enthusiastic user, there are se
 
 ## 🤗 Ways to contribute
 
-<img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Thanks%20for%20Contributions%20Amesuki.png">
+<img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Thanks%20for%20Contributions%20Amesuki%20v2.png">
 
 
 
@@ -85,4 +85,4 @@ If you need assistance or have questions about contributing, please don't hesita
 
 Made by [RubenTheCoder](https://github.com/RubenTheCoder) and [ChatGPT](https://chat.openai.com/)
 
-<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/github/.github/images/Banner%202-small.png">
+<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
