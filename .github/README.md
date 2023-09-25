@@ -4,19 +4,32 @@
 
 # Welcome to the Shunji Railways GitHub repository
 This is one of my projects to add to my IT portfolio, a website for a fictional railway company called Shunji Railways.
-They transport goods and people on the entire planet of Kikoria. Now they need a website, and decided to put the project open source on GitHub.
+They transport goods and people on the entire planet of Kikoria. Now they need a website where people can plan and book their next trip, and decided to put the project open source on GitHub.
 
 
 
-## Version
+## Project version
 - Current version: Not yet released
-- Next release: v-0.1a (Adds homepage)
+- Next release: Version 1.0
+  ### Planned features
+  - The basic website structure, like the homepage, contact pages and such.
+  - Adds information pages about travelling with us, safety on the platform and ideas for your next trip.
+  - Adds a map of the train routes and schedules, and a route planner widget
 
 
 
 ## Release notes
-To be added...
+To be added in a upcoming update.
+> First new update: Version 1.0
 
+
+
+## About the project
+Shunji Railways is the large railways company of the planet Kikoria, a daughter branch of the Global Union. Known for modernity and efficiency, they offers some of the best railroad experiences one can ever have. With their large fleet of futuristic, high speed trains, Shunji Railways brings you to where you want to be, anywhere, anytime.
+
+<br>
+
+The website Shunji Railways is going to build is planned to be a large scale information hub. People can find information on different topics regarding travelling with us on different pages. Some of these have their own widgets, like a route planner. We are also going to add a gift shop and other cool stuff later on.
 
 
 ## How to Contribute
