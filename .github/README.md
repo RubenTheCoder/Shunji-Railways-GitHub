@@ -2,24 +2,24 @@
 
 ---
 
-# 🙂 Welcome to the Shunji Railways GitHub repository
+# Welcome to the Shunji Railways GitHub repository
 This is one of my projects to add to my IT portfolio, a website for a fictional railway company called Shunji Railways.
 They transport goods and people on the entire planet of Kikoria. Now they need a website, and decided to put the project open source on GitHub.
 
 
 
-## 🗃 Version
+## Version
 - Current version: Not yet released
 - Next release: v-0.1a (Adds homepage)
 
 
 
-## 🚀 Release notes
+## Release notes
 To be added...
 
 
 
-## 🔨 How to Contribute
+## How to Contribute
 
 <img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Thanks%20for%20Contributions%20Amesuki%20v2.png">
 
@@ -35,12 +35,12 @@ To be added...
 
 
 
-## 📞 Contact and support
+## Contact and support
 You can ask questions at the [Q&A discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a), or you can mail us with the e-mail address below
 > 📧 Send us an e-mail: rvos@reacollege.net
 
 
-## 👥 Project contributors
+## Project contributors
 - [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and lead designer
 - [JeroenCoder](https://github.com/JeroenCoder) - Intern
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, programmer and content designer
