@@ -2,7 +2,7 @@
 
 ---
 
-# 📋 Contribution guidelines
+# Contribution guidelines
 
 Thank you for your interest in contributing to the Shunji Railways GitHub!
 We welcome contributions from the community to help improve and enhance our project.
@@ -10,7 +10,7 @@ Whether you're a developer, designer, or just an enthusiastic user, there are se
 
 
 
-## 🤗 Ways to contribute
+## Ways to contribute
 
 <img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Thanks%20for%20Contributions%20Amesuki%20v2.png">
 
@@ -45,19 +45,19 @@ Share your thoughts, ideas, and feedback on the project, or help others with the
 
 
 
-## 🙂 Code of conduct
+## Code of conduct
 
 Please note that we have a [Code of conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md) in place. We expect all contributors and community members to adhere to it in all interactions within the project.
 
 
 
-## 🛡 Security policy
+## Security policy
 
 Please note that when you contribute, you need to adhere to the [security policy](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/security/policy).
 
 
 
-## 🔎 Review process
+## Review process
 
 - Pull requests will be reviewed by project maintainers or contributors.
 - Feedback will be provided, and further changes may be requested.
@@ -65,7 +65,7 @@ Please note that when you contribute, you need to adhere to the [security policy
 
 
 
-## 🖥 Development setup
+## Development setup
 
 To set up your development enviroment, simply download the corresponding branch and load it into your preferred code editor. Preferred is the usage of:
 
@@ -75,11 +75,13 @@ To set up your development enviroment, simply download the corresponding branch 
 
 
 
-## ❔ Getting help
+## Getting help
 
 If you need assistance or have questions about contributing, please don't hesitate to reach out on our [Q&A discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a).
 
-😀 Thank you for helping us make Shunji Railways better!
+<br>
+
+**Thank you for helping us make Shunji Railways better!**
 
 ---
 
