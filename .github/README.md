@@ -31,6 +31,9 @@ Shunji Railways is the large railways company of the planet Kikoria, a daughter 
 
 The website Shunji Railways is going to build is planned to be a large scale information hub. People can find information on different topics regarding travelling with us on different pages. Some of these have their own widgets, like a route planner. We are also going to add a gift shop and other cool stuff later on.
 
+<br>
+
+For more info about the project, feel free to explore our [wiki page about the project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/wiki)
 
 ## How to Contribute
 
@@ -45,6 +48,8 @@ The website Shunji Railways is going to build is planned to be a large scale inf
 - **🧪 Review and testing:** Help us ensure quality by reviewing and testing tasks in the ['Review and testing' column](https://github.com/users/RubenTheCoder/projects/4). You can send us a quality report on an issue using our [quality discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/quality-reports). Your feedback is invaluable.
 
 - **😃 Join the discussion:** Engage with other contributors, share your thoughts, and offer assistance in the comments section of each issue or the [general discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/general)
+
+- More info on how to contribute you can find on our [wiki page](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/wiki).
 
 
 
