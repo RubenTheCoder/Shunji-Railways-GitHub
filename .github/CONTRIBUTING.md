@@ -77,7 +77,7 @@ To set up your development enviroment, simply download the corresponding branch 
 
 ## Getting help
 
-If you need assistance or have questions about contributing, please don't hesitate to reach out on our [Q&A discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a).
+If you need assistance or have questions about contributing, please don't hesitate to reach out on our [Q&A discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a), or visit our [wiki page](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/wiki).
 
 <br>
 
