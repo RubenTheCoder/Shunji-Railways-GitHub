@@ -2,9 +2,9 @@
 
 ---
 
-# 🛡 Security policy
+# Security policy
 
-## 🚨 Reporting a vulnerability
+## Reporting a vulnerability
 
 <img align="right" width="25%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Safety%20Amesuki.png">
 
@@ -13,7 +13,9 @@ If you are able to, include where you found the problem, what it looks like, and
 
 > 📧 Report a security problem: rvos@reacollege.net
 
-🙂 Thanks for your help to our project. We greatly appreciate it!
+<br>
+
+**Thanks for your help to our project. We greatly appreciate it!**
 
 ---
 
