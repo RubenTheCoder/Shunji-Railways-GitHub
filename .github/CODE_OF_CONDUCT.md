@@ -2,14 +2,14 @@
 
 ---
 
-# 🙂 Code of conduct
+# Code of conduct
 
 Welcome at the Shunji Railways GitHub. When interacting with our repository and community,
 we expect you to act by some standards to keep this project a safe and welcoming place.
 
 
 
-## 📏 Our standards
+## Our standards
 
 <img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Safety%20Amesuki.png">
 
@@ -28,7 +28,7 @@ Examples of **unacceptable** behavior include:
 - 🪪 Publishing private information of others or the project.
 - ⛔️ Other inmoral and inappropiate conducts.
 
-## 🚨 Rule enforcement
+## Rule enforcement
 
 If someone breaks these standards and makes our community a unsafe place, action will be taken as following:
 
