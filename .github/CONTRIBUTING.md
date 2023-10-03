@@ -33,10 +33,14 @@ Provide as much detail as possible, including the steps to reproduce the issue, 
    - Find a issue in the [Shunji Railways Workspace](https://github.com/users/RubenTheCoder/projects/4). Reference the issue name and number in your pull request later on if required.
    - Fork the repository to your own GitHub account.
    - Create a new branch with a descriptive name for your feature or bug fix.
-   - Write clean, well-documented code following the [Google coding guidelines](https://google.github.io/styleguide).
+   - Write clean, well-documented code following our guidelines listed below.
    - Test your changes thoroughly, this helps reduce the time we need to review pull requests.
    - Submit a pull request (PR) to the main repository's 'main' branch.
-   - Include a clear and concise description of your changes in the PR, as well as a reference to any related issues.
+   - Include a clear and concise description of your changes in the PR, as well as a reference to any related     issues.
+ 
+    ### Guidelines
+    - [Google coding guidelines](https://google.github.io/styleguide).
+    - [Ford interactive CSS ordering guide](https://fordinteractive.com/tools/propertyorder/propertyorder.css)
 
 
 
