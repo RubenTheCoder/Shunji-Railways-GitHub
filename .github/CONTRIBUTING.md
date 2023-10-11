@@ -114,6 +114,7 @@ To set up your development enviroment, simply download the corresponding branch 
 - Visual Studio - Code editor.
 - XAMPP - PHP server.
 - Visual Studio DevSense PHP plugin - Important PHP plugin.
+- Contentful - Content management system.
 
 
 
