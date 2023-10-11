@@ -27,19 +27,6 @@ Provide as much detail as possible, including the steps to reproduce the issue, 
 
 
 
-- **🔨 Code contributions:**
-
-    If you're a developer and would like to contribute code to the Shunji Railways GitHub, please follow the guidelines below:
-   - Find a issue in the [Shunji Railways Workspace](https://github.com/users/RubenTheCoder/projects/4). Reference the issue name and number in your pull request later on if required.
-   - Fork the repository to your own GitHub account.
-   - Create a new branch with a descriptive name for your feature or bug fix.
-   - Write clean, well-documented code following the [Google coding guidelines](https://google.github.io/styleguide).
-   - Test your changes thoroughly, this helps reduce the time we need to review pull requests.
-   - Submit a pull request (PR) to the main repository's 'main' branch.
-   - Include a clear and concise description of your changes in the PR, as well as a reference to any related issues.
-
-
-
 - **💬 Discussion board:** You can also contribute by participating in discussions on our [general discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/general).
 Share your thoughts, ideas, and feedback on the project, or help others with their questions.
 
@@ -114,9 +101,9 @@ Use the checklist issue and bind it to your issue to keep track of the requireme
 
 ## Review process
 
-- Pull requests will be reviewed by project maintainers or contributors.
+- ZIP files will be reviewed by project maintainers or contributors.
 - Feedback will be provided, and further changes may be requested.
-- Once a pull request is approved, it will be merged into the corresponding branch for the newest version.
+- Once a piece of code is approved, it will be merged into the current project folder for the newest version.
 
 
 
