@@ -4,7 +4,7 @@
 
 # Welcome to the Shunji Railways GitHub repository
 This is one of my projects to add to my IT portfolio, a website for a fictional railway company called Shunji Railways.
-They transport goods and people on the entire planet of Kikoria. Now they need a website where people can plan and book their next trip, and decided to put the project open source on GitHub.
+They transport goods and people on the entire planet of Kikoria. Now they need a website where people can plan and book their next trip, and decided to put the project status on GitHub (we were forced to).
 
 
 
@@ -42,8 +42,6 @@ For more info about the project, feel free to explore our [wiki page about the p
 - **📨 Submit ideas:** If you are a contributor and have a feature request or an enhancement idea, [open an issue](https://github.com/users/RubenTheCoder/projects/4) in the 'New features' column, providing as much detail as possible. You can also [fork our project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork), or send us ideas in the [discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/ideas).
 
 - **🔎 Bug reports:** Encountered a bug? Report it using the [bug fixing discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/bug-fixing). One of our team members will then take a look into it and post it to the [workspace](https://github.com/users/RubenTheCoder/projects/4).
-
-- **🔃 Forking a repository:** Ready to dive in and contribute? Pick a task from the ['To do board'](https://github.com/users/RubenTheCoder/projects/4), and [fork the repository](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork). You can then work on it and start a pull request, and maybe we will introduce your code into our project.
 
 - **🧪 Review and testing:** Help us ensure quality by reviewing and testing tasks in the ['Review and testing' column](https://github.com/users/RubenTheCoder/projects/4). You can send us a quality report on an issue using our [quality discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/quality-reports). Your feedback is invaluable.
 
