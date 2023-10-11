@@ -57,6 +57,61 @@ Please note that when you contribute, you need to adhere to the [security policy
 
 
 
+## List of code principles
+
+Before code is submitted, it has to follow the following code principles, every line (sorry).
+Use the checklist issue and bind it to your issue to keep track of the requirements.
+
+### Modular code
+1. **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
+2. **Single responsibility** - Functions, variabels and modules should only serve one purpose.
+3. **MVC** - Data, styling and logic are seperated in different files.
+4. **Single point of truth** - A variable may only occur in one place.
+5. **Composition over inheritance** - Avoid inherticance and duplication by composing objects and arrays.
+6. **Cohesion** - Keep simular functions close to each other.
+7. **Information hiding** - Prevent global changes to code by keeping code modular and independant.
+8. **Code flow** - Avoid complex logic flows and loops.
+9. **LoD** - Modules and functions should not know about the inner works of other modules or functions.
+10. **Data scope** - Keep the scope of data as low as possible.
+
+### Readable code
+1. **KISS** - Write code in a more simple way instead of compact.
+2. **Searchability** - Sort and organize code, and document it so it easy to find.
+3. **Consistency** - Code follow consistent naming and format.
+4. **Comments** - Comment on code, but only when needed.
+
+### Project maintainability
+1. **YAGNI** - Add only features required for the moment, and not for later.
+2. **Avoid premature optimization** - Code only what is needed at the moment.
+3. **Security** - Prevent security weaknesses in the code early on.
+4. **Defensive programming** - Always scan and clean user input.
+5. **Galls law** - Complex systems are build up from working simple systems
+
+### Zen coding prinicples
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Flat is better than nested.
+- Sparse is better than dense.
+- Readability counts.
+- Special cases aren't special enough to break the rules.
+- Although practicality beats purity.
+- Errors should never pass silently.
+- Unless explicitly silenced.
+- In the face of ambiguity, refuse the temptation to guess.
+- There should be one-- and preferably only one --obvious way to do it.[a]
+- Although that way may not be obvious at first unless you're Dutch.
+- Now is better than never.
+- Although never is often better than right now.[b]
+- If the implementation is hard to explain, it's a bad idea.
+- If the implementation is easy to explain, it may be a good idea.
+- Namespaces are one honking great idea – let's do more of those!
+
+### Google styleguide
+[Open Google styleguide](https://google.github.io/styleguide/)
+
+
 ## Review process
 
 - Pull requests will be reviewed by project maintainers or contributors.
