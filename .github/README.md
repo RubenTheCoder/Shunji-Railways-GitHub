@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Banner%202-small.png">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Shunji%20banner%20small.png">
 
 ---
 
