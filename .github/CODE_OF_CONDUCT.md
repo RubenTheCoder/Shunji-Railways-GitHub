@@ -32,7 +32,7 @@ Examples of **unacceptable** behavior include:
 
 If someone breaks these standards and makes our community a unsafe place, action will be taken as following:
 
-- 🗑 Rulebreaking comments, pull requests, etc will be removed.
+- 🗑 Rulebreaking comments, names, etc will be removed.
 - ⚠️ The rulebreaker will be send a warning about their misbehavior
 - ⛔️ If the user breaks the rules multiple times, further action will be taken, like blocking the user from the repository.
 
