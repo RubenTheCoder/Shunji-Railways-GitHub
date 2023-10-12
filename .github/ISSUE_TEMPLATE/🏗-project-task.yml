@@ -6,12 +6,12 @@ labels:
 projects: 
   - "RubenTheCoder/4"
 body:
-  - type: text-area
+  - type: textarea
     attributes:
       label: "What phase is this for"
       description: "What month, or version?"
       placeholder: "Month 1"
-  - type: text-area
+  - type: textarea
     attributes:
       label: "What needs to be done to complete this phase"
       description: "Steps to reach goal, details, end result etc..."
