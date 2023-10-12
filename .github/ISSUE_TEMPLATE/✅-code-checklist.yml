@@ -21,6 +21,50 @@ body:
         
         <br>
         
+        ##### Modular code
         - [ ] **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
         - [ ] **Single responsibility** - Functions, variabels and modules should only serve one purpose.
+        - [ ] **MVC** - Data, styling and logic are seperated in different files.
+        - [ ] **Single point of truth** - A variable may only occur in one place.
+        - [ ] **Composition over inheritance** - Avoid inherticance and duplication by composing objects and arrays.
+        - [ ] **Cohesion** - Keep simular functions close to each other.
+        - [ ] **Information hiding** - Prevent global changes to code by keeping code modular and independant.
+        - [ ] **Code flow** - Avoid complex logic flows and loops.
+        - [ ] **LoD** - Modules and functions should not know about the inner works of other modules or functions.
+        - [ ] **Data scope** - Keep the scope of data as low as possible.
+
+        ##### Readable code
+        - [ ] **KISS** - Write code in a more simple way instead of compact.
+        - [ ] **Searchability** - Sort and organize code, and document it so it easy to find.
+        - [ ] **Consistency** - Code follow consistent naming and format.
+        - [ ] **Comments** - Comment on code, but only when needed.
+
+        ##### Project maintainability
+        - [ ] **YAGNI** - Add only features required for the moment, and not for later.
+        - [ ] **Avoid premature optimization** - Code only what is needed at the moment.
+        - [ ] **Security** - Prevent security weaknesses in the code early on.
+        - [ ] **Defensive programming** - Always scan and clean user input.
+        - [ ] **Galls law** - Complex systems are build up from working simple systems
+
+        ##### Zen coding prinicples
+        - [ ] Beautiful is better than ugly.
+        - [ ] Explicit is better than implicit.
+        - [ ] Simple is better than complex.
+        - [ ] Complex is better than complicated.
+        - [ ] Flat is better than nested.
+        - [ ] Sparse is better than dense.
+        - [ ] Readability counts.
+        - [ ] Special cases aren't special enough to break the rules.
+        - [ ] Although practicality beats purity.
+        - [ ] Errors should never pass silently.
+        - [ ] Unless explicitly silenced.
+        - [ ] In the face of ambiguity, refuse the temptation to guess.
+        - [ ] There should be one-- and preferably only one --obvious way to do it.[a]
+        - [ ] Although that way may not be obvious at first unless you're Dutch.
+        - [ ] Now is better than never.
+        - [ ] Although never is often better than right now.[b]
+        - [ ] If the implementation is hard to explain, it's a bad idea.
+        - [ ] If the implementation is easy to explain, it may be a good idea.
+        - [ ] Namespaces are one honking great idea – let's do more of those!
+        
         ---
