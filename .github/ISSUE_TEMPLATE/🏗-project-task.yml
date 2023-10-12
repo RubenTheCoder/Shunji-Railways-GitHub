@@ -4,7 +4,7 @@ title: "[🏗 Phase] (Add title here)"
 labels: ["🏗 Project task"]
 projects: ["RubenTheCoder/4"]
 body:
- - type: input
+	- type: input
 		attributes:
 			label: What phase is this for
 			description: What month, or version?
