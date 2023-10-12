@@ -17,6 +17,6 @@ body:
     attributes:
       label: Code checklist
       description: Here you can check if your code conforms to our quality standards
-      items:
-        - label: <b>DRY</b> - Repeated code functionality is moved to functions and modules, instead of writing it twice.
-        - label: <b>Single responsibility</b> - Functions, variabels and modules should only serve one purpose.
+      value:
+        - [ ] **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
+        - [ ] **Single responsibility** - Functions, variabels and modules should only serve one purpose.
