@@ -6,7 +6,7 @@ labels:
 projects: 
   - "RubenTheCoder/4"
 body:
-  - type: textarea
+  - type: input
     attributes:
       label: "What phase is this for"
       description: "What month, or version?"
