@@ -1,0 +1,22 @@
+name: "✅ Code Checklist"
+description: "Used to keep track of code upload requirements"
+title: "[✅ Checklist] (Add title here)"
+labels: ["🧪 Test"]
+projects: ["RubenTheCoder/4"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us maintain our code standards
+  - type: input
+    attributes:
+      label: Which issue or issues is this checklist for
+      description: Add the ID and the name of the issue's
+      placeholder: Add issues here ('Example issue #51', 'Example issue #75')
+  - type: markdown
+    attributes:
+      label: Code checklist
+      description: Here you can check if your code conforms to our quality standards
+      items:
+        - label: **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
+        - label: **Single responsibility** - Functions, variabels and modules should only serve one purpose.
