@@ -48,4 +48,4 @@ body:
     attributes:
       label: Styleguides
       options:  
-        - label: [Open Google styleguide](https://google.github.io/styleguide/)
+        - label: Google styleguide
