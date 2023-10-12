@@ -16,6 +16,9 @@ body:
   - type: markdown
     attributes:
       value: |
+        ---
         #### Keep track if your code conforms to our quality here
+        <br>
         - [ ] **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
         - [ ] **Single responsibility** - Functions, variabels and modules should only serve one purpose.
+        ---
