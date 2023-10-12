@@ -11,7 +11,7 @@ body:
   - type: dropdown
     attributes:
       label: Where did you find this bug?
-      multiple: true
+      multiple: false
       options:
         - GitHub
         - The project website
