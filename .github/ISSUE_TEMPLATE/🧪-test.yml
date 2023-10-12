@@ -1,0 +1,22 @@
+name: "🧪 Test"
+description: "Describe a test procedure"
+title: "[🧪 Test] (Add title here)"
+labels: ["🧪 Test"]
+projects: ["RubenTheCoder/4"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to test your contributions
+  - type: textarea
+    attributes:
+      label: Describe the test procedure
+      description: What code needs to be tested? How will you test it? What are the expected results?
+      placeholder: Describe your test procedure here
+  - type: checkboxes
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
