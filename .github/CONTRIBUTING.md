@@ -74,27 +74,6 @@ Use the checklist issue and bind it to your issue to keep track of the requireme
 4. **Defensive programming** - Always scan and clean user input.
 5. **Galls law** - Complex systems are build up from working simple systems
 
-### Zen coding prinicples
-- Beautiful is better than ugly.
-- Explicit is better than implicit.
-- Simple is better than complex.
-- Complex is better than complicated.
-- Flat is better than nested.
-- Sparse is better than dense.
-- Readability counts.
-- Special cases aren't special enough to break the rules.
-- Although practicality beats purity.
-- Errors should never pass silently.
-- Unless explicitly silenced.
-- In the face of ambiguity, refuse the temptation to guess.
-- There should be one-- and preferably only one --obvious way to do it.[a]
-- Although that way may not be obvious at first unless you're Dutch.
-- Now is better than never.
-- Although never is often better than right now.[b]
-- If the implementation is hard to explain, it's a bad idea.
-- If the implementation is easy to explain, it may be a good idea.
-- Namespaces are one honking great idea – let's do more of those!
-
 ### Google styleguide
 [Open Google styleguide](https://google.github.io/styleguide/)
 
