@@ -5,19 +5,19 @@ labels: ["🏗 Project task"]
 projects: ["RubenTheCoder/4"]
 body:
 - type: input
-    attributes:
-      label: What phase is this for
-      description: What month, or version?
-      placeholder: Month 1
-  - type: text-area
-    attributes:
-      label: What needs to be done to complete this phase
-      description: Steps to reach goal, details, end result etc...
-      placeholder: Add task definiton here
-  - type: checkboxes
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow this project's Code of Conduct
+	attributes:
+		label: What phase is this for
+		description: What month, or version?
+		placeholder: Month 1
+- type: text-area
+	attributes:
+		label: What needs to be done to complete this phase
+		description: Steps to reach goal, details, end result etc...
+		placeholder: Add task definiton here
+- type: checkboxes
+	attributes:
+    	label: Code of Conduct
+    	description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md)
+    	options:
+    	- label: I agree to follow this project's Code of Conduct
           required: true
