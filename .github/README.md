@@ -9,8 +9,10 @@ Here we build a website were travellers can find information for their next trip
 
 
 ## Project version
-- Current version: Not yet released
-- Next release: Version 1.0
+- **Current version:** Not yet released
+- **Current GitHub stable: Version 1.1** 
+- **Next release: Version 1.0**
+- **Planned release date:** 11 May, 2024
   ### Planned features
   - The basic website structure.
   - Articles about various subjects of travelling, including safety, usage of the Omni-Card and facilities.
