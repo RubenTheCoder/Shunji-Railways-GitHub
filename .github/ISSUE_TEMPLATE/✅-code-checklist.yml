@@ -17,33 +17,33 @@ body:
     attributes:
       label: Modular code
       options:     
-        - label: **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
-        - label: **Single responsibility** - Functions, variabels and modules should only serve one purpose.
-        - label: **MVC** - Data, styling and logic are seperated in different files.
-        - label: **Single point of truth** - A variable may only occur in one place.
-        - label: **Composition over inheritance** - Avoid inherticance and duplication by composing objects and arrays.
-        - label: **Cohesion** - Keep simular functions close to each other.
-        - label: **Information hiding** - Prevent global changes to code by keeping code modular and independant.
-        - label: **Code flow** - Avoid complex logic flows and loops.
-        - label: **LoD** - Modules and functions should not know about the inner works of other modules or functions.
-        - label: **Data scope** - Keep the scope of data as low as possible.
+        - label: DRY - Repeated code functionality is moved to functions and modules, instead of writing it twice.
+        - label: Single responsibility - Functions, variabels and modules should only serve one purpose.
+        - label: MVC - Data, styling and logic are seperated in different files.
+        - label: Single point of truth - A variable may only occur in one place.
+        - label: Composition over inheritance - Avoid inherticance and duplication by composing objects and arrays.
+        - label: Cohesion - Keep simular functions close to each other.
+        - label: Information hiding - Prevent global changes to code by keeping code modular and independant.
+        - label: Code flow - Avoid complex logic flows and loops.
+        - label: LoD - Modules and functions should not know about the inner works of other modules or functions.
+        - label: Data scope - Keep the scope of data as low as possible.
   - type: checkboxes
     attributes:
       label: Readable code
       options:   
-        - label: **KISS** - Write code in a more simple way instead of compact.
-        - label: **Searchability** - Sort and organize code, and document it so it easy to find.
-        - label: **Consistency** - Code follow consistent naming and format.
-        - label: **Comments** - Comment on code, but only when needed.
+        - label: KISS - Write code in a more simple way instead of compact.
+        - label: Searchability - Sort and organize code, and document it so it easy to find.
+        - label: Consistency - Code follow consistent naming and format.
+        - label: Comments - Comment on code, but only when needed.
   - type: checkboxes
     attributes:
       label: Project maintainability
       options:  
-        - label: **YAGNI** - Add only features required for the moment, and not for later.
-        - label: **Avoid premature optimization** - Code only what is needed at the moment.
-        - label: **Security** - Prevent security weaknesses in the code early on.
-        - label: **Defensive programming** - Always scan and clean user input.
-        - label: **Galls law** - Complex systems are build up from working simple systems
+        - label: YAGNI - Add only features required for the moment, and not for later.
+        - label: Avoid premature optimization** - Code only what is needed at the moment.
+        - label: Security - Prevent security weaknesses in the code early on.
+        - label: Defensive programming** - Always scan and clean user input.
+        - label: Galls law - Complex systems are build up from working simple systems
   - type: checkboxes
     attributes:
       label: Styleguides
