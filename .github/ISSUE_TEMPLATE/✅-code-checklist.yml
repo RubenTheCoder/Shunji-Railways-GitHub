@@ -15,8 +15,6 @@ body:
       placeholder: Add issues here ('Example issue #51', 'Example issue #75')
   - type: markdown
     attributes:
-      label: Code checklist
-      description: Here you can check if your code conforms to our quality standards
       value: |
         - [ ] **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
         - [ ] **Single responsibility** - Functions, variabels and modules should only serve one purpose.
