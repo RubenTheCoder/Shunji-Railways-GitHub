@@ -9,9 +9,10 @@ body:
       value: |
         Thanks for helping us improve our project
   - type: input
-    label: What kind of idea is it?
-    description: How would you describe your suggestion?
-    placeholder: Add your idea here
+    attributes:
+      label: What kind of idea is it?
+      description: How would you describe your suggestion?
+      placeholder: Add your idea here
   - type: textarea
     id: suggestion-text
     attributes:
