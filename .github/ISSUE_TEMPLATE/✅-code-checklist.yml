@@ -17,11 +17,11 @@ body:
     attributes:
       value: |
         ---
-        #### Keep track if your code conforms to our quality here
+        ### Keep track if your code conforms to our quality here
         
         <br>
         
-        ##### Modular code
+        #### Modular code
         - [ ] **DRY** - Repeated code functionality is moved to functions and modules, instead of writing it twice.
         - [ ] **Single responsibility** - Functions, variabels and modules should only serve one purpose.
         - [ ] **MVC** - Data, styling and logic are seperated in different files.
@@ -33,20 +33,20 @@ body:
         - [ ] **LoD** - Modules and functions should not know about the inner works of other modules or functions.
         - [ ] **Data scope** - Keep the scope of data as low as possible.
 
-        ##### Readable code
+        #### Readable code
         - [ ] **KISS** - Write code in a more simple way instead of compact.
         - [ ] **Searchability** - Sort and organize code, and document it so it easy to find.
         - [ ] **Consistency** - Code follow consistent naming and format.
         - [ ] **Comments** - Comment on code, but only when needed.
 
-        ##### Project maintainability
+        #### Project maintainability
         - [ ] **YAGNI** - Add only features required for the moment, and not for later.
         - [ ] **Avoid premature optimization** - Code only what is needed at the moment.
         - [ ] **Security** - Prevent security weaknesses in the code early on.
         - [ ] **Defensive programming** - Always scan and clean user input.
         - [ ] **Galls law** - Complex systems are build up from working simple systems
 
-        ##### Zen coding prinicples
+        #### Zen coding prinicples
         - [ ] Beautiful is better than ugly.
         - [ ] Explicit is better than implicit.
         - [ ] Simple is better than complex.
