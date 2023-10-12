@@ -1,0 +1,28 @@
+name: "🪛 Update request"
+description: "Request an update"
+title: "[🪛 Update] (Add title here)"
+labels: ["🪛 Update"]
+projects: ["RubenTheCoder/4"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us improve our project
+  - type: input
+    attributes:
+      label: What kind of update is it?
+      description: How would you describe your update?
+      placeholder: Add your update idea here
+  - type: textarea
+    id: suggestion-text
+    attributes:
+      label: Describe in more details what it looks like
+      description: Write down as detailed as you can, so we can fully understand your idea
+      placeholder: Describe here what the update looks like in detail
+  - type: checkboxes
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
