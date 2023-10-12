@@ -1,0 +1,21 @@
+name: "🚨 Bug report"
+description: "Report a bug"
+title: "[🚨 Bug] (Add title here)"
+labels: ["🕷 Bug"]
+projects: ["RubenTheCoder/4"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting problems to us
+  - type: input
+    attributes:
+      label: Where did you find this problem?
+      description: Did it happened in our project files, the GitHub page, or elsewhere?
+      placeholder: Enter bug occurance here
+  - type: textarea
+    id: suggestion-text
+    attributes:
+      label: Describe in more details what happened
+      description: What did you see? What was the expected behavior? Any error codes?
+      placeholder: Describe here what the bug looks like in detail
