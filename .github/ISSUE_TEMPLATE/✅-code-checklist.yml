@@ -33,11 +33,15 @@ body:
         - [ ] **LoD** - Modules and functions should not know about the inner works of other modules or functions.
         - [ ] **Data scope** - Keep the scope of data as low as possible.
 
+        <br>
+
         #### Readable code
         - [ ] **KISS** - Write code in a more simple way instead of compact.
         - [ ] **Searchability** - Sort and organize code, and document it so it easy to find.
         - [ ] **Consistency** - Code follow consistent naming and format.
         - [ ] **Comments** - Comment on code, but only when needed.
+
+        <br>
 
         #### Project maintainability
         - [ ] **YAGNI** - Add only features required for the moment, and not for later.
@@ -45,6 +49,8 @@ body:
         - [ ] **Security** - Prevent security weaknesses in the code early on.
         - [ ] **Defensive programming** - Always scan and clean user input.
         - [ ] **Galls law** - Complex systems are build up from working simple systems
+
+        <br>
 
         #### Zen coding prinicples
         - [ ] Beautiful is better than ugly.
