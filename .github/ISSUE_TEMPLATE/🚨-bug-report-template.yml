@@ -14,12 +14,8 @@ body:
       multiple: true
       options:
         - GitHub
-        - The project
-        - Other
-        - type: input
-          attributes:
-            description: Describe the location of the bug
-            placeholder: Enter bug occurance here
+        - The project website
+        - Somewhere else
   - type: textarea
     attributes:
       label: Describe in more details what happened
