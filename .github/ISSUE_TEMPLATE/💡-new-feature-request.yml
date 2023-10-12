@@ -1,5 +1,5 @@
-name: 💡 New feature request
-description: Request a new feature
+name: "💡 New feature request"
+description: "Request a new feature"
 title: "[💡 New feature]: "
 labels: ["💡 New feature"]
 projects: ["RubenTheCoder/4"]
@@ -9,8 +9,8 @@ body:
       value: |
         Thanks for helping us improve our project
   - type: textarea
-  id: suggestion-text
-  attributes:
-    label: What would you like to see added to our project?
-    description: Write down as detailed as you can, so we can fully understand your idea
-    placeholder: Add your ideas here
+    id: suggestion-text
+    attributes:
+      label: What would you like to see added to our project?
+      description: Write down as detailed as you can, so we can fully understand your idea
+      placeholder: Add your ideas here.
