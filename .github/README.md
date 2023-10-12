@@ -57,7 +57,7 @@ You can ask questions at the [Q&A discussion board](https://github.com/RubenTheC
 
 
 ## Project contributors
-- [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and lead designer
+- [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and project manager
 - [JeroenCoder](https://github.com/JeroenCoder) - Intern
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, programmer and content designer
 
