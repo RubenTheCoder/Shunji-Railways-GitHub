@@ -1,6 +1,6 @@
 name: "💡 New feature request"
 description: "Request a new feature"
-title: "[💡 New feature] (Add title here)"
+title: "[💡 New] (Add title here)"
 labels: ["💡 New"]
 projects: ["RubenTheCoder/4"]
 body:
