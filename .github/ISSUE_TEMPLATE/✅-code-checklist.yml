@@ -40,9 +40,9 @@ body:
       label: Project maintainability
       options:  
         - label: YAGNI - Add only features required for the moment, and not for later.
-        - label: Avoid premature optimization** - Code only what is needed at the moment.
+        - label: Avoid premature optimization - Code only what is needed at the moment.
         - label: Security - Prevent security weaknesses in the code early on.
-        - label: Defensive programming** - Always scan and clean user input.
+        - label: Defensive programming - Always scan and clean user input.
         - label: Galls law - Complex systems are build up from working simple systems
   - type: checkboxes
     attributes:
