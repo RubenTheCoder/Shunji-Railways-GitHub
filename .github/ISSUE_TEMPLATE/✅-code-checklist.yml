@@ -13,7 +13,7 @@ body:
       label: Which issue or issues is this checklist for
       description: Add the ID and the name of the issue's
       placeholder: Add issues here ('Example issue #51', 'Example issue #75')
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         ---
