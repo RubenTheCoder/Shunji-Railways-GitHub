@@ -9,3 +9,8 @@
 ## Contributors
 
 - Add contributors here (@person)
+
+## Closed issues
+
+- Add isues using 'Closes #your issue'
+- Closes #example
