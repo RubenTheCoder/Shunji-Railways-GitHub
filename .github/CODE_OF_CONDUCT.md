@@ -4,7 +4,7 @@
 
 # Code of conduct
 
-Welcome at the Shunji Railways GitHub. When interacting with our repository and community,
+Welcome at the Shunji Railways™ GitHub. When interacting with our repository and community,
 we expect you to act by some standards to keep this project a safe and welcoming place.
 
 
