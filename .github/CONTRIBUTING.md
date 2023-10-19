@@ -4,7 +4,7 @@
 
 # Contribution guidelines
 
-Thank you for your interest in contributing to the Shunji Railways GitHub!
+Thank you for your interest in contributing to the Shunji Railways™ GitHub!
 We welcome contributions from the community to help improve and enhance our project.
 Whether you're a developer, designer, or just an enthusiastic user, there are several ways you can contribute.
 
@@ -103,7 +103,7 @@ If you need assistance or have questions about contributing, please don't hesita
 
 <br>
 
-**Thank you for helping us make Shunji Railways better!**
+**Thank you for helping us make Shunji Railways™ better!**
 
 ---
 
