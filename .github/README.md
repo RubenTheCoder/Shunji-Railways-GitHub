@@ -1,4 +1,4 @@
-<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Shunji%20banner%20small.png">
+<img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/banners/shunji_banner_small.png">
 
 ---
 
@@ -44,7 +44,7 @@ For more info about the project, feel free to explore our [wiki page about the p
 
 ## How to Contribute
 
-<img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Thanks%20for%20Contributions%20Amesuki%20v2.png">
+<img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/amesuki/thanks_helping_amesuki.png">
 
 - **📨 Submit ideas:** If you are a contributor and have a feature request or an enhancement idea, [open an issue](https://github.com/users/RubenTheCoder/projects/4) in the 'New features' column, providing as much detail as possible. You can also [fork our project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/fork), or send us ideas in the [discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/ideas).
 
@@ -72,4 +72,4 @@ You can ask questions at the [Q&A discussion board](https://github.com/RubenTheC
 
 Made by [RubenTheCoder](https://github.com/RubenTheCoder) and [ChatGPT](https://chat.openai.com/)
 
-<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/Shunji%20banner%20small.png">
+<img height="50px" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/banners/shunji_banner_small.png">
