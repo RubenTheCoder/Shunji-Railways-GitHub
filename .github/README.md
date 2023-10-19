@@ -2,8 +2,8 @@
 
 ---
 
-# Welcome to the Shunji Railways GitHub repository
-Shunji Railways is the biggest railway company on the planet Kikoria.
+# Welcome to the Shunji Railways™ GitHub repository
+Shunji Railways™ is the biggest railway company on the planet Kikoria.
 Here we build a website were travellers can find information for their next trip, using detailed maps, route planners and read various articles. To read more about the our plans for this project, visit the [wiki page about our development plan](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/wiki/Website-development-plan-(Version-1.0))
 
 
@@ -20,7 +20,7 @@ Here we build a website were travellers can find information for their next trip
   - Articles about travel ideas.
   - A route planner widget to find out which trains you need to use to get to your destination.
   - A page with a map of our train routes.
-  - A gift shop (not functional until interplanetary transport has been established).
+  - A gift shop (not fully functional until interplanetary transport has been established).
   - A contact page with e-mail function an contact info.
 
 
@@ -32,11 +32,11 @@ To be added in a upcoming update.
 
 
 ## About the project
-Shunji Railways is the large railways company of the planet Kikoria, a daughter branch of the Global Union. Known for modernity and efficiency, they offers some of the best railroad experiences one can ever have. With their large fleet of futuristic, high speed trains, Shunji Railways brings you to where you want to be, anywhere, anytime.
+Shunji Railways™ is the large railways company of the planet Kikoria, a daughter branch of the Global Union™. Known for modernity and efficiency, they offers some of the best railroad experiences one can ever have. With their large fleet of futuristic, high speed trains, Shunji Railways™ brings you to where you want to be, anywhere, anytime.
 
 <br>
 
-The website Shunji Railways is going to build is planned to be a large scale information hub. People can find information on different topics regarding travelling with us on different pages. Some of these have their own widgets, like a route planner. We are also going to add a gift shop and other cool stuff later on.
+The website Shunji Railways™ is going to build is planned to be a large scale information hub. People can find information on different topics regarding travelling with us on different pages. Some of these have their own widgets, like a route planner. We are also going to add a gift shop and other cool stuff later on.
 
 <br>
 
