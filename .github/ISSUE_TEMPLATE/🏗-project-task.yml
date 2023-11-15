@@ -10,7 +10,7 @@ body:
     attributes:
       label: "What phase is this for"
       description: "What month, or version?"
-      placeholder: "Month 1"
+      placeholder: "Phase #"
   - type: textarea
     attributes:
       label: "What needs to be done to complete this phase"
