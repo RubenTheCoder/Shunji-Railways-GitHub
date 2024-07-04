@@ -1,0 +1,64 @@
+# ████████████████████████████████
+# ██ Set-up                     ██
+# ████████████████████████████████
+
+#
+# Enable rewrite engine
+#
+RewriteEngine on
+
+#
+# Set root of rewrites
+#
+RewriteCond %{REQUEST_URI} ^/
+
+#
+# Log Errors
+# Toggle comment to show or hide errors
+#
+# php_value error_reporting E_ALL
+
+
+
+
+
+# ████████████████████████████████
+# ██ File Permissions           ██
+# ████████████████████████████████
+
+#
+# List of directory paths that are forbidden.
+# These paths start from the root folder.
+# Files ARE inside parentheses
+#
+RewriteRule ^(.dev/) - [F]
+RewriteRule ^(.github/) - [F]
+RewriteRule ^(config/) - [F]
+RewriteRule ^(logs/) - [F]
+RewriteRule ^(templates/) - [F]
+RewriteRule ^(vendor/) - [F]
+RewriteRule ^(widgets/) - [F]
+
+#
+# List of file paths that are forbidden.
+# These paths start from the root folder.
+# Files are NOT inside parentheses
+#
+RewriteRule ^.gitignore - [F]
+RewriteRule ^.htaccess - [F]
+RewriteRule ^composer.json - [F]
+RewriteRule ^composer.lock - [F]
+
+
+
+
+
+# ████████████████████████████████
+# ██ HTTP Status                ██
+# ████████████████████████████████
+
+#
+# Set HTTP Error pages
+#
+# ErrorDocument 403 /sr/web/error_pages/403.html
+# ErrorDocument 404 /sr/web/error_pages/404.html
