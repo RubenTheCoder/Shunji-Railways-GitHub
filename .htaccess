@@ -31,14 +31,7 @@ RewriteCond %{REQUEST_URI} ^/
 # These paths start from the root folder.
 # Files ARE inside parentheses
 #
-RewriteRule ^(.build/) - [F]
-RewriteRule ^(.dev/) - [F]
-RewriteRule ^(.dist/) - [F]
-RewriteRule ^(config/) - [F]
-RewriteRule ^(logs/) - [F]
-RewriteRule ^(src/) - [F]
-RewriteRule ^(templates/) - [F]
-RewriteRule ^(vendor/) - [F]
+RewriteRule ^(.github/) - [F]
 RewriteRule ^(vendor/) - [F]
 
 #
@@ -46,6 +39,7 @@ RewriteRule ^(vendor/) - [F]
 # These paths start from the root folder.
 # Files are NOT inside parentheses
 #
+RewriteRule ^.gitignore - [F]
 RewriteRule ^.htaccess - [F]
 RewriteRule ^composer.json - [F]
 RewriteRule ^composer.lock - [F]
