@@ -1,20 +1,18 @@
 <img src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/banners/shunji_banner_small.png">
 
----
-
 # Welcome to the Shunji Railways™ GitHub repository
 Shunji Railways™ is the biggest railway company on the planet Kikoria.
 Here we build a website were travellers can find information for their next trip, using detailed maps, route planners and read various articles. To read more about the our plans for this project, visit the [wiki page about our development plan](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/wiki/Website-development-plan-(Version-1.0))
 
 
 
-## Project version
+### Project version
 - **Current version:** Not yet released
 - **Current GitHub stable:** Version 1.1
 - **Next release:** Version 1.0
 - **Planned release date:** 11 May, 2024
   
-  ### Planned features
+  #### Planned features
   - The basic website structure.
   - Articles about various subjects of travelling, including safety, usage of the Uni-Card and facilities.
   - Articles about travel ideas.
@@ -25,13 +23,13 @@ Here we build a website were travellers can find information for their next trip
 
 
 
-## Release notes
+### Release notes
 To be added in a upcoming update.
 > First new update: Version 1.0
 
 
 
-## About the project
+### About the project
 Shunji Railways™ is the large railways company of the planet Kikoria, a daughter branch of the Global Union™. Known for modernity and efficiency, they offers some of the best railroad experiences one can ever have. With their large fleet of futuristic, high speed trains, Shunji Railways™ brings you to where you want to be, anywhere, anytime.
 
 <br>
@@ -42,7 +40,7 @@ The website Shunji Railways™ is going to build is planned to be a large scale 
 
 For more info about the project, feel free to explore our [wiki page about the project](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/wiki)
 
-## How to Contribute
+### How to Contribute
 
 <img align="right" width="50%" src="https://github.com/RubenTheCoder/Shunji-Railways-GitHub/blob/main/.github/images/amesuki/thanks_helping_amesuki.png">
 
@@ -58,12 +56,12 @@ For more info about the project, feel free to explore our [wiki page about the p
 
 
 
-## Contact and support
+### Contact and support
 You can ask questions at the [Q&A discussion board](https://github.com/RubenTheCoder/Shunji-Railways-GitHub/discussions/categories/q-a), or you can mail us with the e-mail address below
 > 📧 Send us an e-mail: rvos@reacollege.net
 
 
-## Project contributors
+### Project contributors
 - [RubenTheCoder](https://github.com/RubenTheCoder) - Owner and project manager
 - [JeroenCoder](https://github.com/JeroenCoder) - Intern
 - [ChatGPT](https://chat.openai.com/) (AI) - Advisor, programmer and content designer
