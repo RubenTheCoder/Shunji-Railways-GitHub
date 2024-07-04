@@ -16,7 +16,7 @@ Here we build a website were travellers can find information for their next trip
   
   ### Planned features
   - The basic website structure.
-  - Articles about various subjects of travelling, including safety, usage of the Omni-Card and facilities.
+  - Articles about various subjects of travelling, including safety, usage of the Uni-Card and facilities.
   - Articles about travel ideas.
   - A route planner widget to find out which trains you need to use to get to your destination.
   - A page with a map of our train routes.
