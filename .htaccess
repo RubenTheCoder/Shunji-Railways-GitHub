@@ -31,8 +31,13 @@ RewriteCond %{REQUEST_URI} ^/
 # These paths start from the root folder.
 # Files ARE inside parentheses
 #
+RewriteRule ^(.dev/) - [F]
 RewriteRule ^(.github/) - [F]
+RewriteRule ^(config/) - [F]
+RewriteRule ^(logs/) - [F]
+RewriteRule ^(templates/) - [F]
 RewriteRule ^(vendor/) - [F]
+RewriteRule ^(widgets/) - [F]
 
 #
 # List of file paths that are forbidden.
